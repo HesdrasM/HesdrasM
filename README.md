@@ -11,9 +11,9 @@
 <br>
 
 <div align="center">
-  <img align="left" height="360" width="550" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
-  <img align="rigth" height="180" src="https://github-readme-stats.vercel.app/api?username=flleuma&show_icons=true&theme=vue-dark"/>
-  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flleuma&layout=compact&theme=vue-dark"/>
+  <img align="left" height="350" width="450" alt="coding-time" src="http://media.giphy.com/media/UfS59SQhFdl2E/giphy.gif">
+  <img align="rigth" height="180" src="https://github-readme-stats.vercel.app/api?username=flleuma&show_icons=true&theme=aura"/>
+  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flleuma&layout=compact&theme=aura"/>
 </div>
 <br>
 
@@ -44,4 +44,4 @@
     <img align="center" height="25" width="30" alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/trello/trello-plain.svg" >
 </div><br>
 
-![Snake animation](https://github.com/flleuma/flleuma/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
