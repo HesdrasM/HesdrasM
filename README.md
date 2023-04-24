@@ -7,8 +7,8 @@
 
 <div align="center">
   <img align="left" height="450em" alt="coding-time" src="http://media.giphy.com/media/UfS59SQhFdl2E/giphy.gif">
-  <img align="rigth" height="180" src="https://github-readme-stats.vercel.app/api?username=flleuma&show_icons=true&theme=aura"/>
-  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flleuma&layout=compact&theme=aura"/>
+  <img align="rigth" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flleuma&show_icons=true&theme=aura"/>
+  <img align="rigth" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flleuma&layout=compact&theme=aura"/>
 </div>
 <div align="center">
   
