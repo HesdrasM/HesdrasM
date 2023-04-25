@@ -44,4 +44,4 @@
     <img align="center" height="25" width="30" alt="Trello" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/trello/trello-plain.svg" >
 </div><br>
 
-![Snake animation](https://github.com/LuigiGf/LuigiGf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/flleuma/flleuma/blob/output/github-contribution-grid-snake.svg)
