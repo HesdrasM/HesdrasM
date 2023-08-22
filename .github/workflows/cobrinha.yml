@@ -1,3 +1,4 @@
+on:
   # run automatically every 24 hours
   # Corn 0 */24 * * *
   schedule:
